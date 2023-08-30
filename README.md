@@ -77,7 +77,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd CountFingers
+  cd gesture_volume_controller
 ```
 
 Install dependencies
